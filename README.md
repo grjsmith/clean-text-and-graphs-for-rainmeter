@@ -2,11 +2,6 @@
 The context is simple. I like system monitors in Rainmeter. I have a large 21:9 monitor so I can spare a little screenspace at the top of my display. So I wanted reasonably feature rich monitors that occupied a small amount of vertical space but they could use as much horizontal space as they wanted.
 
 
-
-Follow instructions here to get the G-GPU skin working.
-https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/
-Massive thanks to Nick/Stangowner for the instructions and example code.
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -16,20 +11,6 @@ Massive thanks to Nick/Stangowner for the instructions and example code.
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <!-- PROJECT LOGO -->
 <br />
@@ -105,17 +86,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 1. Install rainmeter.
 2. Download the skins
 3. Install the skins in your rainmeter skins folder (mine is in C:\Users\user_name\Documents\Rainmeter)
+4. Follow instructions on the [Guru3d forum](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) to get the G-GPU skin working.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
 
 ### Installation
-
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
@@ -132,8 +109,6 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -143,15 +118,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- I'd love to add a weather widget but I doubt I can build one better than ...
+<!-- find out which weather widget I'm using -->
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -161,7 +132,6 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -175,34 +145,25 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Grant Smith - [@grjsmith](https://twitter.com/grjsmith) - grant@nextgendevops.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter](https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
+* Thanks to the Rainmeter team for the awesome tutorials
+* Thanks to Nick/Stangowner for the Afterburner/Rainmeter instructions and example code.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,11 +171,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/grantsmithdevops/
-[product-screenshot]: images/screenshot.png
