@@ -1,7 +1,4 @@
 # clean-text-and-graphs-for-rainmeter
-The context is simple. I like system monitors in Rainmeter. I have a large 21:9 monitor so I can spare a little screenspace at the top of my display. So I wanted reasonably feature rich monitors that occupied a small amount of vertical space but they could use as much horizontal space as they wanted.
-
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -19,7 +16,7 @@ The context is simple. I like system monitors in Rainmeter. I have a large 21:9 
     <img src="images/clean-text-and-graphs-for-rainmeter.jpg" alt="screenshot of clean-text-and-graphs-for-rainmeter" width="788" height="37">
   </a>
 
-<h3 align="center">clean-text-and-graphs-for-rainmeter</h3>
+<h1 align="center">clean-text-and-graphs-for-rainmeter</h1>
 
   <p align="center">
     Clean system monitors for rainmeters where vertical space is a premium.
@@ -63,11 +60,7 @@ The context is simple. I like system monitors in Rainmeter. I have a large 21:9 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
+The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 monitor so I can spare a little screenspace at the top of my display. So I wanted reasonably feature rich system monitors that occupied a small amount of vertical space but could use as much horizontal space as needed.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -82,30 +75,20 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-1. Install rainmeter.
-2. Download the skins
-3. Install the skins in your rainmeter skins folder (mine is in C:\Users\user_name\Documents\Rainmeter)
-4. Follow instructions on the [Guru3d forum](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) to get the G-GPU skin working.
-
 ### Prerequisites
 
 * Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
-
+* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/clean+text+and+graphs_1.0.rmskin)
+* Download [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+* Download the [MSI Afterburner DLL](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) that's right for your system
 ### Installation
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+* Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
+* Install MSI Afterburner you don't ever need to look at it, it just needs to be running.
+* Follow instructions on the [Guru3d forum](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) to get the G-GPU skin working.
+You will need to provide Administrator permissions in order to copy the file to the correct location:
+```
+C:\Program Files\Rainmeter\Plugins
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
