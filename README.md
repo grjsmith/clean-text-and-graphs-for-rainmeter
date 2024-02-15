@@ -24,9 +24,9 @@
     <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues">Request Feature</a>
   </p>
 </div>
 
