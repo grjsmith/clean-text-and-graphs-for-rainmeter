@@ -93,19 +93,18 @@ C:\Program Files\Rainmeter\Plugins
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>-->
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- I'd love to add a weather widget but I doubt I can build one better than ...
-<!-- find out which weather widget I'm using -->
+- I'd love to add a weather widget but everytime I do the APIs change and I haven't found one that seems stable.
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
