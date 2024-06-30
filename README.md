@@ -1,4 +1,4 @@
-# clean-text-and-graphs-for-rainmeter
+# Clean text and graphs for rainmeter
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -13,16 +13,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter">
-    <img src="images/clean-text-and-graphs-for-rainmeter.jpg" alt="screenshot of clean-text-and-graphs-for-rainmeter" width="788" height="37">
+    <img src="images/CPU_RAM_SSD.png" alt="screenshot of clean-text-and-graphs-for-rainmeter">
   </a>
-
-<h1 align="center">clean-text-and-graphs-for-rainmeter</h1>
 
   <p align="center">
     Clean system monitors for rainmeters where vertical space is a premium.
     <br />
-    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter/issues">Report Bug</a>
     ·
@@ -30,7 +28,17 @@
   </p>
 </div>
 
+<div align="left">
+<br />
+<p align="left">
+    Now includes a simple RSS news feed.
 
+
+  <a href="https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter">
+    <img src="images/NEWS.png" alt="screenshot of clean-text-and-graphs-for-rainmeter">  
+  </a>
+  </p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -66,8 +74,6 @@ The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 
 ### Built With
 
 * [Rainmeter](https://www.rainmeter.net/)
-* [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-* [MSI Afterburner DLL](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -79,18 +85,10 @@ The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 
 
 * Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
 * Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/clean+text+and+graphs_1.0.rmskin)
-* Download [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-* Download the [MSI Afterburner DLL](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) that's right for your system
+
 ### Installation
 * Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
-* Install MSI Afterburner you don't ever need to look at it, it just needs to be running.
-* Follow instructions on the [Guru3d forum](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) to get the G-GPU skin working.
-You will need to provide Administrator permissions in order to copy the file to the correct location:
-```
-C:\Program Files\Rainmeter\Plugins
-```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+* Navigate to the place you saved ``clean+text+and+graphs_1.0.rmskin`` and doubleclick on it. That will open the Rainmeter skins window and all you to open the skins you want to use.
 
 <!-- USAGE EXAMPLES -->
 <!--## Usage
@@ -104,13 +102,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- I'd love to add a weather widget but everytime I do the APIs change and I haven't found one that seems stable.
+* I'd love to add a weather widget but everytime I do the APIs change and I haven't found one that seems stable.
+* I did have an GPU skin using the Afterburner plugin but I found it unreliable in that it didn't work on every system. I now think using Afterburner and RivaTunerStatisticsServer to get an in-game overlay is a better solution to monitoring GPU metrics.
 
 See the [open issues](https://github.com/grjsmith/dotfiles/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -136,16 +133,14 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Grant Smith - [@grjsmith](https://twitter.com/grjsmith) - grant@nextgendevops.com
-
-Project Link: [https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter](https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter)
+* Grant Smith - [@grjsmith](https://twitter.com/grjsmith) - grant@nextgendevops.com
+* Project Link: [https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter](https://github.com/grjsmith/clean-text-and-graphs-for-rainmeter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * Thanks to the Rainmeter team for the awesome tutorials
-* Thanks to Nick/Stangowner for the Afterburner/Rainmeter instructions and example code.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
