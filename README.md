@@ -84,7 +84,7 @@ The concept is simple. I like system monitors in Rainmeter. I have a large 21:9 
 ### Prerequisites
 
 * Download Rainmeter from [https://www.rainmeter.net/](https://www.rainmeter.net/)
-* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/clean+text+and+graphs_1.0.rmskin)
+* Download the skins from [my S3 bucket](https://entropybit.s3.eu-west-1.amazonaws.com/Clean+text+and+graphs_0.3.rmskin)
 
 ### Installation
 * Install Rainmeter, [following the excellent documentation if you need it](https://docs.rainmeter.net/manual/installing-rainmeter/)
